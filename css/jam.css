@@ -1,4 +1,18 @@
 .jam-h1{
     color:black;
     text-align: center;
+    font-family: 'Times New Roman', Times, serif;
 }
+
+.jam-bg{
+    background: pink;
+}
+
+.pic1{
+    object-position: center;
+}
+
+.nav{
+    background-color: black;
+}
+
